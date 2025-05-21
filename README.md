@@ -1,0 +1,1 @@
+This project focuses on forecasting the sales weight for the next 45 days using historical time series data. The main goal is to develop a model that captures seasonality and trends using deep learning techniques, particularly LSTM (Long Short-Term Memory) networks.
